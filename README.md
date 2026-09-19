@@ -1,4 +1,4 @@
-# Discord Bot Nameplates — Complete Guide
+# NameplatesOnBots Guide
 
 Discord's Display Name Styles (internally known as Nameplates) allow you to customize how a bot's display name appears inside a specific server. This includes applying custom typography, color palettes, and special visual treatments like neon glows or gradient fades.
 
